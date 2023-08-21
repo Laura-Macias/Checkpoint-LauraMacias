@@ -1,0 +1,50 @@
+1  git --version
+    2  git
+    3  cd OneDrive
+    4  cd Documentos
+    5  cd DigitalHouse
+    6  cd Introducción
+    7  cd Clase8S
+    8  cd ..
+    9  cd Checkpoint-LauraMacias
+   10  git init
+   11  git config user.email "laurma999@gmail.com"
+   12  git config user.name "Laura-Macias"
+   13  git remote add origin https://github.com/Laura-Macias/Checkpoint-LauraMacias.git
+   14  git remote -v
+   15  touch main.js index.html
+   16  git status
+   17  gid add
+   18  git add.
+   19  git add .
+   20  git commit -m "commit 01 de Laura Macias"
+   21  git push origin main
+   22  git branch <feature>
+   23  git brach feature
+   24  git branch feature
+   25  git checkout feature
+   26  mkdir Hardware Software SeguridadInformatica
+   27  cd Hardware
+   28  touch resumen.txt
+   29  cd ..
+   30  cd Software
+   31   touch resumen.txt
+   32  cd ..
+   33  cd SeguridadInformatica
+   34   touch resumen.txt
+   35  cd ..
+   36  git status
+   37  git add .
+   38  git commit -m "commit 02 de Laura Macias"
+   39  git push origin feature
+   40  git checkout main
+   41  git mv main.js resumenHardware.txt
+   42  git mv index.html resumenSoftware.txt
+   43  cd resumenSoftware
+   44  cd resumenSoftware.txt
+   45  ls
+   46  notepad resumenHardware.txt
+   47  notepad resumenSoftware.txt
+   48  notepad resumenHardware.txt
+   49  touch comandos.txt
+   50  history
